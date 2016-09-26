@@ -1,8 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 @import url("https://fonts.googleapis.com/css?family=Alegreya:700");
 * {
-  box-sizing: border-box;
-  color: white; }
+  box-sizing: border-box; }
 
 body {
   margin: 0;
