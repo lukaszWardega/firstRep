@@ -1,0 +1,28 @@
+{
+  "name": "kodilla-zad-7-5",
+  "version": "1.0.0",
+  "description": "example grunt project",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukaszWardega/firstRep.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Lukasz Wardega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukaszWardega/firstRep/issues"
+  },
+  "homepage": "https://github.com/LukaszWardega/firstRep#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.1"
+  }
+}
